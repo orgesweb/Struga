@@ -1,0 +1,2 @@
+# Struga
+ tourism
